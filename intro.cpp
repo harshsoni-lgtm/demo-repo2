@@ -7,5 +7,8 @@ namespace Demo{
 
 int main(){
     cout<<"Value of x is "<<Demo::x<<endl;
+    cout<<"Hello World";
     return 0;
+
+    
 }
